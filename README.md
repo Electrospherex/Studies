@@ -1,4 +1,4 @@
 # Studies
 
-Python
+[Python]
 Bootcamp
