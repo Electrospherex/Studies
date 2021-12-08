@@ -1,3 +1,5 @@
+# Bot to download images from the internet
+
 import requests
 link = (input('Insira o link:'))
 r = requests.get(link)
