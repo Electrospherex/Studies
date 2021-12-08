@@ -2,4 +2,4 @@
 
 # [Python](https://github.com/Electrospherex/Studies/tree/master/Python)
 
-# [Bootcamp](https://github.com/Electrospherex/Studies/tree/master/Bootcamp)
+# [Inter Frontend Developer Bootcamp](https://github.com/Electrospherex/Studies/tree/master/Bootcamp)
